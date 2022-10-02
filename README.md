@@ -1,4 +1,6 @@
+<div align=center>
 <img src="https://github.com/lyr5333/Typoretohalo/blob/main/picture/Snipaste_2022-10-02_00-23-47.png" alt="Snipaste_2022-10-02_00-23-47" style="zoom:50%;" />
+</div>
 
 **Typoretohalo**，一款将Typora的.md笔记连同链接的本地图片一起上传至Halo博客，并解析Latex公式。
 
